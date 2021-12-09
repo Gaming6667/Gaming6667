@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+body {
+background: #4e54c8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #8f94fb, #4e54c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+/*
+.tableFixed tbody{
+    height:300px;
+    overflow:auto;
+    width:100%
+}
+.tableFixed thead,
+.tableFixed tbody,
+.tableFixed td,
+.tableFixed th{
+    display:block;
+}
+
+.tableFixed tbody td,
+.tableFixed thead > tr > th {
+
+    float:left;
+    border-bottom-width: 0;
+
+}
+*/
